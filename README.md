@@ -9,7 +9,6 @@ git branch -M main
 git remote add origin git@github.com:uzicloud/InitProjects.git
 git push -u origin main
 
-
 or push an existing repository from the command line
 git remote add origin git@github.com:uzicloud/InitProjects.git
 git branch -M main
